@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/botao_timer.hex'
-elf = 'build/botao_timer.elf'
+firmware = 'build/Atividade-02.hex'
+elf = 'build/Atividade-02.elf'

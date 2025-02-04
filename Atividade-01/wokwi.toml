@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/freq_03.hex'
-elf = 'build/freq_03.elf'
+firmware = 'build/Atividade-01.hex'
+elf = 'build/Atividade-01.elf'
