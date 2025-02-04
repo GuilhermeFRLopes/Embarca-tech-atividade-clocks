@@ -27,10 +27,11 @@ Este projeto implementa um sistema de temporização para o acionamento de LEDs 
 2. Configure o ambiente de desenvolvimento do Raspberry Pi Pico.
 3. Compile o código usando o CMake:
 4. Carregue o binário no Raspberry Pi Pico.
+5. Para testar a simulaçao do wokwi é necessário compilar o projeto pela extensão do pi-pico
 
 ###  Testando no Simulador
 Se quiser testar no **Wokwi**, abra o arquivo `diagram.json` e inicie a simulação.
-
+obs: Para testar a simulaçao do wokwi é necessário compilar o projeto pela extensão do pi-pico
 ---
 
 ##  Tutorial para testar o codigo caso não consiga clonar
