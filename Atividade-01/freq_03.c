@@ -5,7 +5,6 @@
 #define LED_PIN_GREEN 11
 #define LED_PIN_BLUE 12
 #define LED_PIN_RED 13
-bool led_on = false;
 
 // Função de callback que será chamada repetidamente pelo temporizador
 bool repeating_timer_callback(struct repeating_timer *t) {
